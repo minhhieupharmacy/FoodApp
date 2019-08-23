@@ -4,7 +4,7 @@ public class Home {
     String name ;
     String address;
     int images;
-//fsd
+
     public Home(String name, String address, int images) {
         this.name = name;
         this.address = address;

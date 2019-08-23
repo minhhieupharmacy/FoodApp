@@ -4,7 +4,7 @@ public class Home {
     String name ;
     String address;
     int images;
-//sfsfsdfsdfdsfsdfsfdssfsfs
+    //tao ghi chu nedsadsad
     public Home(String name, String address, int images) {
         this.name = name;
         this.address = address;
